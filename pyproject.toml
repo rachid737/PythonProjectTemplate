@@ -6,7 +6,7 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fastvector"
+name = "fastvector123"
 authors = [
     {name = "Jan Schaffranek", email = "email@email.com"},
 ]
